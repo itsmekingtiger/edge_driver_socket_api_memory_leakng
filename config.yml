@@ -1,0 +1,5 @@
+name: 'LAN BinarySwitch'
+packageKey: 'LAN-BinarySwitch'
+permissions:
+  lan: {}
+  discovery: {}
